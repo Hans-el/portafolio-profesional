@@ -24,7 +24,7 @@ const featuredProjects = [
     title: "Sistema de gestión de Cementerio Municipal",
     category: "FullStack",
     description:
-      "Plataforma para administrar procesos, registrar cambios y reportes con una interfaz limpia y flujos bien definidos.",
+      "Plataforma para administrar procesos, registrar cambios y reportes útiles para la gestión del cementerio.",
   },
   {
     title: "Sistema de Referencias Inversas",
